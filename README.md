@@ -18,11 +18,17 @@ The opensource project [https://github.com/schollz/find](https://github.com/scho
 
 ###Initial results:
 EXAMPLE: Stats like presence are provided by FIND project.
+The proportion of pie chart is relative probability at that location
+
 ![alt text](https://github.com/sdslabs/presence-3D/raw/master/demo/stats.png "Real time(almost) stats")
+
 EXAMPLE 3-D rendering of Lab and member(s)' location. ( The model is still incomplete due to shortage of time.)
 That little thing is my laptop which was rendered after detection.
+
 ![alt text](https://github.com/sdslabs/presence-3D/raw/master/demo/3d_presence.png "Render 1")
+
 EXAMPLE 3-D rendering of Lab. 
+
 ![alt text](https://github.com/sdslabs/presence-3D/raw/master/demo/3d_presence_2.png "Render 2")
 
 
