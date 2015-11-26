@@ -1,0 +1,24 @@
+{
+    "DEFAULT": {
+        "post_gres_NAME": "",
+        "post_gres_password": "",
+        "post_gres_user":"",
+        "secret_key":"",
+        "email_host_user":"",
+        "email_host_password":"",
+        "rabbit_username":"",
+        "rabbit_password":""
+    },
+    "PRODUCTION":{
+        "post_gres_NAME": "",
+        "post_gres_password": "",
+        "post_gres_user":"",
+        "secret_key":"",
+        "email_host_user":"",
+        "email_host_password":"",
+        "rabbit_username":"",
+        "rabbit_password":""
+
+    }
+
+}
