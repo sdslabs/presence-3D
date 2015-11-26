@@ -1,6 +1,6 @@
 # Presence 3D
 
-This project is similar to presence but tries to not only say who are in the lab, but also approximately where they are in the lab by 3 D representation. Considering the lab size, it may be very ambitious to expect exact location, hence only broad classification can be tried like: 
+This project is similar to presence, with 3 D representation. Considering the lab size, it may be very ambitious to expect exact location, hence only broad classification can be tried like: 
 
 - Reception area
 - Server room
